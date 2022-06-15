@@ -1,4 +1,4 @@
-# WoredPress module
+# Trivy WoredPress Module
 
 This module provides a more in-depth investigation of Wordpress detection.
 
