@@ -1,4 +1,4 @@
-module github.com/aquasecurity/trivy-module-spring4shell
+module github.com/aquasecurity/trivy-module-wordpress
 
 go 1.18
 

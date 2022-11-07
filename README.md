@@ -1,6 +1,6 @@
-# Trivy WoredPress Module
+# Trivy WordPress Module
 
-This module provides a more in-depth investigation of Wordpress detection.
+This module provides a more in-depth investigation of WordPress detection.
 
 ## Set up
 
